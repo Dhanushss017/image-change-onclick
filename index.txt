@@ -24,23 +24,19 @@ Download CV
 
 #---------- HERO ----------#
 
-alt = Ethan's Photo
+alt = Dhanush's Photo
 
-12
-Years of Success
 
-800+
-Projects Completed
 
 <ion-icon name="trophy"></ion-icon>
 
-alt = I'm developer from New York
+alt = I'm developer
 
 Hello I'm
 
-Ethan Ward
+Dhanush 
 
-Web Developer from New York
+Web Developer from Bangalore
 
 Adipisicing elit. Neque nulla voluptatum eos repellat deserunt nesciunt tempore porro totam.
 
@@ -52,9 +48,7 @@ About Me
 
 #---------- ABOUT ----------#
 
-alt = Ethan's Photo
 
-alt = Ethan's Photo
 
 <ion-icon name="logo-css3"></ion-icon>
 <ion-icon name="logo-javascript"></ion-icon>
@@ -109,11 +103,6 @@ CSS
 React
 75%
 
-MongoDB
-90%
-
-Python
-70%
 
 PHP
 80%
@@ -169,7 +158,7 @@ Jim Morisson Says when the musics over turn off the light
 
 #---------- FOOTER ----------#
 
-&copy; 2022 codewithsadee. All Rights Reseverd
+All Rights Reseverd
 
 Terms & Condition 
 Privacy Policy
